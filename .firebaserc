@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dvrepa-ebcfe": {
+      "hosting": {
+        "PwaAngularTicTacToe": [
+          "dvrepa-ebcfe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dvrepa-ebcfe"
+  }
+}
